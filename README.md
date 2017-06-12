@@ -1,5 +1,5 @@
 # hello-world
 My first repository
 
-Hellow World
+Hello World
 This is a test.
